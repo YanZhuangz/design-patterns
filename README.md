@@ -12,3 +12,6 @@
 
 ## 4、Proxy pattern
 > 代理模式
+
+## 5、Strategy pattern
+> 策略模式

@@ -10,6 +10,7 @@
         <module name="prototypepattern" />
         <module name="proxypattern" />
         <module name="singletonpattern" />
+        <module name="strategypattern" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -17,6 +18,7 @@
       <module name="prototypepattern" target="1.5" />
       <module name="proxypattern" target="1.5" />
       <module name="singletonpattern" target="1.5" />
+      <module name="strategypattern" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
